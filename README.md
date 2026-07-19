@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/madhavihanchate/leetcode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/madhavihanchate/leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/madhavihanchate/leetcode/tree/master/0066-plus-one) |
+| [1480-running-sum-of-1d-array](https://github.com/madhavihanchate/leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -26,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/madhavihanchate/leetcode/tree/master/0001-two-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/madhavihanchate/leetcode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
