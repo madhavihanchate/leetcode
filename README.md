@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/madhavihanchate/leetcode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/madhavihanchate/leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/madhavihanchate/leetcode/tree/master/0066-plus-one) |
+| [0217-contains-duplicate](https://github.com/madhavihanchate/leetcode/tree/master/0217-contains-duplicate) |
 | [1480-running-sum-of-1d-array](https://github.com/madhavihanchate/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/madhavihanchate/leetcode/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Two Pointers
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/madhavihanchate/leetcode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/madhavihanchate/leetcode/tree/master/0217-contains-duplicate) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/madhavihanchate/leetcode/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Prefix Sum
 |  |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/madhavihanchate/leetcode/tree/master/0217-contains-duplicate) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/madhavihanchate/leetcode/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Heap (Priority Queue)
 |  |
