@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/madhavihanchate/leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/madhavihanchate/leetcode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/madhavihanchate/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/madhavihanchate/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/madhavihanchate/leetcode/tree/master/0217-contains-duplicate) |
 | [1480-running-sum-of-1d-array](https://github.com/madhavihanchate/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/madhavihanchate/leetcode/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/madhavihanchate/leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/madhavihanchate/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/madhavihanchate/leetcode/tree/master/0217-contains-duplicate) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/madhavihanchate/leetcode/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Prefix Sum
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/madhavihanchate/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/madhavihanchate/leetcode/tree/master/0217-contains-duplicate) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/madhavihanchate/leetcode/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Heap (Priority Queue)
@@ -50,4 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/madhavihanchate/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/madhavihanchate/leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/madhavihanchate/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
