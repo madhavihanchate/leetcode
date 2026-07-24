@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/madhavihanchate/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/madhavihanchate/leetcode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/madhavihanchate/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0724-find-pivot-index](https://github.com/madhavihanchate/leetcode/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/madhavihanchate/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/madhavihanchate/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/madhavihanchate/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/madhavihanchate/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/madhavihanchate/leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/madhavihanchate/leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Sorting
 |  |
