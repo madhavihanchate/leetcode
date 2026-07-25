@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/madhavihanchate/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0724-find-pivot-index](https://github.com/madhavihanchate/leetcode/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/madhavihanchate/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1094-car-pooling](https://github.com/madhavihanchate/leetcode/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/madhavihanchate/leetcode/tree/master/1109-corporate-flight-bookings) |
 | [1480-running-sum-of-1d-array](https://github.com/madhavihanchate/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/madhavihanchate/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/madhavihanchate/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/madhavihanchate/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/madhavihanchate/leetcode/tree/master/0724-find-pivot-index) |
+| [1094-car-pooling](https://github.com/madhavihanchate/leetcode/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/madhavihanchate/leetcode/tree/master/1109-corporate-flight-bookings) |
 | [1480-running-sum-of-1d-array](https://github.com/madhavihanchate/leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Sorting
@@ -72,11 +74,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/madhavihanchate/leetcode/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/madhavihanchate/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/madhavihanchate/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1094-car-pooling](https://github.com/madhavihanchate/leetcode/tree/master/1094-car-pooling) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/madhavihanchate/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/madhavihanchate/leetcode/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1094-car-pooling](https://github.com/madhavihanchate/leetcode/tree/master/1094-car-pooling) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/madhavihanchate/leetcode/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Dynamic Programming
 |  |
@@ -98,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/madhavihanchate/leetcode/tree/master/0303-range-sum-query-immutable) |
+## Simulation
+|  |
+| ------- |
+| [1094-car-pooling](https://github.com/madhavihanchate/leetcode/tree/master/1094-car-pooling) |
 <!---LeetCode Topics End-->
