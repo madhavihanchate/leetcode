@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/madhavihanchate/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/madhavihanchate/leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/madhavihanchate/leetcode/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/madhavihanchate/leetcode/tree/master/1025-divisor-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/madhavihanchate/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Hash Table
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/madhavihanchate/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1025-divisor-game](https://github.com/madhavihanchate/leetcode/tree/master/1025-divisor-game) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/madhavihanchate/leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Divide and Conquer
 |  |
@@ -139,8 +141,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/madhavihanchate/leetcode/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/madhavihanchate/leetcode/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/madhavihanchate/leetcode/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/madhavihanchate/leetcode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
