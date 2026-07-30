@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/madhavihanchate/leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/madhavihanchate/leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/madhavihanchate/leetcode/tree/master/0189-rotate-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/madhavihanchate/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/madhavihanchate/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/madhavihanchate/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Design
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/madhavihanchate/leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/madhavihanchate/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Monotonic Stack
 |  |
 | ------- |
