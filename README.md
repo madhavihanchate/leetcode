@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/madhavihanchate/leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/madhavihanchate/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/madhavihanchate/leetcode/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/madhavihanchate/leetcode/tree/master/0292-nim-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/madhavihanchate/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Hash Table
 |  |
@@ -134,4 +135,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/madhavihanchate/leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/madhavihanchate/leetcode/tree/master/0268-missing-number) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/madhavihanchate/leetcode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/madhavihanchate/leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
